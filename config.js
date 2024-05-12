@@ -53,7 +53,7 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = 'ᴍʏᴛʜɪᴄ'ꜱ ꜱʜᴀᴅᴏᴡ'
+global.botname = 'ᴍʏᴛʜɪᴄ ꜱʜᴀᴅᴏᴡ'
 global.premium = 'true'
 global.packname = 'you are not perfect if your are not m'
 global.author = 'Ѫчтнїc'
