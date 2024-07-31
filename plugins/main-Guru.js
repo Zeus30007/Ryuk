@@ -2,7 +2,7 @@ let handler = async m =>
   m.reply(
     `
 
-≡  *GURU  ┃ ᴮᴼᵀ*   GROUPS
+≡  *  ┃ ᴮᴼᵀ*   GROUPS
 
 ─────────────
 ▢ Join public bot group and support

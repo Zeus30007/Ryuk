@@ -5,35 +5,35 @@ import moment from 'moment-timezone'
 import os from 'os'
 
 let groupmenu = `
-   ✦ ───『 *group* 』─── ⚝
-  ◈ .getbio <@tag/reply>  Ⓛ
-  ◈ .animequote
-  ◈ .Setdesc <text>
-  ◈ .setname <text>
-  ◈ .add
-  ◈ .delete
-  ◈ .delwarn @user
-  ◈ .demote (@tag)
-  ◈ .infogp
-  ◈ .hidetag
-  ◈ .invite <917xxx>
-  ◈ .kick @user
-  ◈ .link
-  ◈ .poll question|option|option
-  ◈ .profile
-  ◈ .promote
-  ◈ .resetlink
-  ◈ .setbye <text>
-  ◈ .group *open/close*
-  ◈ .setwelcome <text>
-  ◈ .simulate <event> @user
-  ◈ .staff
-  ◈ .tagall
-  ◈ .totag
-  ◈ .warn @user
-  ◈ .warns
-  ◈ .main
-  ╰──────────⳹`
+   ⨺⃝GROUP MENU𓃦 
+  𓃦 .getbio <@tag/reply>  Ⓛ
+  𓃦 .animequote
+  𓃦 .Setdesc <text>
+  𓃦 .setname <text>
+  𓃦 .add
+  𓃦 .delete
+  𓃦 .delwarn @user
+  𓃦 .demote (@tag)
+  𓃦 .infogp
+  𓃦 .hidetag
+  𓃦 .invite <917xxx>
+  𓃦 .kick @user
+  𓃦 .link
+  𓃦 .poll question|option|option
+  𓃦 .profile
+  𓃦 .promote
+  𓃦 .resetlink
+  𓃦 .setbye <text>
+  𓃦 .group *open/close*
+  𓃦 .setwelcome <text>
+  𓃦 .simulate <event> @user
+  𓃦 .staff
+  𓃦 .tagall
+  𓃦 .totag
+  𓃦 .warn @user
+  𓃦 .warns
+  𓃦 .main
+  ⨺⃝Near𓃦 and †Mello †`
 
 let ownermenu = `
   ✦ ───『 *owner* 』─── ⚝
@@ -515,11 +515,11 @@ const handler = async (m, { conn, command, text, args, usedPrefix }) => {
   const infoText = `
  ||   श्री   ||
 > ${botname}  」\n
-- Hii ${name} Senpai
+- yeh? ${name} Greetings
     
 - *${ucpn}* 
    
-乂───『 *U S E R*』───乂
+⨺⃝𓃦USER††
 ⛥ *Name:* ${name}
 ⛥ *Gold:* ${credit}
 ⛥ *Role:* ${role}
@@ -527,7 +527,7 @@ const handler = async (m, { conn, command, text, args, usedPrefix }) => {
 ⛥ *Xp:* ${exp}
 ╰──────────⳹
    
-乂───『 *I N F O*』───乂
+⨺⃝𓃦BOT INFO††
 ⛥ *Bot Name:* ${botname}
 ⛥ *Mode:* ${mode}
 ⛥ *Platform:* ${platform}
@@ -537,14 +537,14 @@ const handler = async (m, { conn, command, text, args, usedPrefix }) => {
 ⛥ *Uptime:* ${muptime}
 ⛥ *Database:*  ${totalreg}
 ╰──────────⳹
-> © Guru Sensei\n\n
+> ⨺⃝Near𓃦 and †Mello †\n\n
 ${readMore}
-乂───『 *I N F O  C M D*』───乂 
+⨺⃝𓃦INFO CMD†† 
 │ *${totalfeatures}* Commands
 ╰──────────⳹
      
 
-乂───『 *INFO*』───乂 
+⨺⃝𓃦INFO††
 │*Reply with the number*
 │ to get respected Menu*
 ╰───────⳹
@@ -582,9 +582,9 @@ ${readMore}
       },
       forwardingScore: 999,
       externalAdReply: {
-        title: 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ',
+        title: '⨺⃝Near𓃦 and †                              Mello                              †',
         body: 'ᴍᴇɴᴜ',
-        thumbnailUrl: 'https://i.pinimg.com/736x/67/4b/41/674b416d858ce262be0c53253b3f1dcc.jpg',
+        thumbnailUrl: 'https://i.ibb.co/sK0ddsb/c79d4a8d26e534e6d82b002476d78299.jpg',
         sourceUrl: 'https://guruapi.tech',
         mediaType: 1,
         renderLargerThumbnail: false,
